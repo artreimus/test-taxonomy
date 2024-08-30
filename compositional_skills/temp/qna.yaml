@@ -1,0 +1,7 @@
+created_by: artreimus
+version: 3
+task_description: biology
+seed_examples:
+  - question: what is biology
+    context: explain what is biology
+    answer: biology is the study of life
